@@ -76,9 +76,6 @@ public class TicTacToe {
 
 /**
  * Contains the fields and methods for Board objects.
- *
- * @author Ted Mader
- * @date 2016-09-27
  */
 class Board {
 
